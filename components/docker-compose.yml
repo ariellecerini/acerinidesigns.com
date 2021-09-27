@@ -1,0 +1,7 @@
+version: '3.5'
+
+services:
+  heals-frontend:
+    build: .
+    ports:
+      - 8000:8000

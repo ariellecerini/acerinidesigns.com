@@ -1,0 +1,250 @@
+
+> arielle-cerini-portfolio@1.1.0 start /var/www/acerinidesigns.com
+> nuxt start
+
+
+ WARN  sass-loader@7.3.1 is installed but ^10.1.1 is expected
+
+
+ WARN  mode option is deprecated. You can safely remove it from nuxt.config
+
+ℹ Listening on: http://172.104.217.73:8000/
+
+ ERROR  getRoutes is not defined
+
+  at routes (nuxt.config.js:143:7)
+  at promisifyRoute (node_modules/@nuxtjs/sitemap/lib/cache.js:59:17)
+  at AsyncCache.load [as _load] (node_modules/@nuxtjs/sitemap/lib/cache.js:18:28)
+  at AsyncCache.get (node_modules/async-cache/ac.js:63:8)
+  at internal/util.js:297:30
+  at new Promise (<anonymous>)
+  at AsyncCache.get (internal/util.js:296:12)
+  at node_modules/@nuxtjs/sitemap/lib/middleware.js:60:20
+  at node_modules/hable/dist/hable.js:1:990
+  at node_modules/hable/dist/hable.js:1:208
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ WARN  Cannot stringify POJOs with symbolic keys Symbol(Symbol.toStringTag)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ WARN  Cannot stringify POJOs with symbolic keys Symbol(Symbol.toStringTag)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  this.getClassType is not a function
+
+  at a.render (pages/_slug.vue)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70637
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  Maximum call stack size exceeded
+
+  at String.replace (<anonymous>)
+  at D (node_modules/vue-server-renderer/build.prod.js:1:3458)
+  at W (node_modules/vue-server-renderer/build.prod.js:1:5020)
+  at Array.ct (node_modules/vue-server-renderer/build.prod.js:1:16131)
+  at node_modules/vue-server-renderer/build.prod.js:1:68171
+  at node_modules/vue-server-renderer/build.prod.js:1:68389
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:68610)
+  at node_modules/vue-server-renderer/build.prod.js:1:70711
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67201)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70613)
+
+
+ ERROR  Maximum call stack size exceeded
+
+  at node_modules/vue/dist/vue.runtime.common.prod.js:6:28321
+  at pn (node_modules/vue/dist/vue.runtime.common.prod.js:6:28437)
+  at a.e._init (node_modules/vue/dist/vue.runtime.common.prod.js:6:32700)
+  at new a (node_modules/vue/dist/vue.runtime.common.prod.js:6:30340)
+  at Vi (node_modules/vue-server-renderer/build.prod.js:1:66341)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70571)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70244)
+  at _t.eo [as renderNode] (node_modules/vue-server-renderer/build.prod.js:1:67491)
+  at _t.next (node_modules/vue-server-renderer/build.prod.js:1:20507)
+  at n (node_modules/vue-server-renderer/build.prod.js:1:18719)
+
+
+<--- Last few GCs --->
+lo[531772:0x561e45089650] 29116391 ms: Mark-sweep 993.4 (997.2) -> 993.0 (998.0) MB, 1784.8 / 0.0 ms  (+ 142.3 ms in 21 steps since start of marking, biggest step 20.6 ms, walltime since start of marking 1991 ms) (average mu = 0.124, current mu = 0.032) all[531772:0x561e45089650] 29118395 ms: Mark-sweep 994.2 (998.0) -> 993.7 (998.5) MB, 1843.3 / 0.0 ms  (+ 85.3 ms in 18 steps since start of marking, biggest step 21.1 ms, walltime since start of marking 2004 ms) (average mu = 0.083, current mu = 0.038) allo
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+    0: ExitFrame [pc: 0x7f5c8f662f59]
+Security context: 0x2f3654d9b7b9 <JSObject>
+    1: /* anonymous */ [0x553e720c939] [/var/www/acerinidesigns.com/node_modules/vue-server-renderer/build.prod.js:~1] [pc=0xa9faa6acd43](this=0x38f15ffdcf19 <JSArray[4]>,0x04e2b4954351 <lt map = 0x24d11684b5b9>)
+    2: eo(aka eo) [0x38f15ffdbe89] [/var/www/acerinidesigns.com/node_modules/vue-server-renderer/build.prod.js:~1] [pc=0xa9faa683193](this=0x29e685...
+
+FATAL ERROR: Ineffective mark-compacts near heap limit Allocation failed - JavaScript heap out of memory
+ 1: 0x7f5c8e9e203c node::Abort() [/lib/x86_64-linux-gnu/libnode.so.72]
+ 2: 0x7f5c8e91da5e  [/lib/x86_64-linux-gnu/libnode.so.72]
+ 3: 0x7f5c8ebb5eba v8::Utils::ReportOOMFailure(v8::internal::Isolate*, char const*, bool) [/lib/x86_64-linux-gnu/libnode.so.72]
+ 4: 0x7f5c8ebb619b v8::internal::V8::FatalProcessOutOfMemory(v8::internal::Isolate*, char const*, bool) [/lib/x86_64-linux-gnu/libnode.so.72]
+ 5: 0x7f5c8ed4fe19  [/lib/x86_64-linux-gnu/libnode.so.72]
+ 6: 0x7f5c8ed601e7 v8::internal::Heap::PerformGarbageCollection(v8::internal::GarbageCollector, v8::GCCallbackFlags) [/lib/x86_64-linux-gnu/libnode.so.72]
+ 7: 0x7f5c8ed60ecf v8::internal::Heap::CollectGarbage(v8::internal::AllocationSpace, v8::internal::GarbageCollectionReason, v8::GCCallbackFlags) [/lib/x86_64-linux-gnu/libnode.so.72]
+ 8: 0x7f5c8ed631bc v8::internal::Heap::AllocateRawWithLightRetry(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [/lib/x86_64-linux-gnu/libnode.so.72]
+ 9: 0x7f5c8ed63228 v8::internal::Heap::AllocateRawWithRetryOrFail(int, v8::internal::AllocationType, v8::internal::AllocationOrigin, v8::internal::AllocationAlignment) [/lib/x86_64-linux-gnu/libnode.so.72]
+10: 0x7f5c8ed27caf v8::internal::Factory::NewFillerObject(int, bool, v8::internal::AllocationType, v8::internal::AllocationOrigin) [/lib/x86_64-linux-gnu/libnode.so.72]
+11: 0x7f5c8f079ff9 v8::internal::Runtime_AllocateInYoungGeneration(int, unsigned long*, v8::internal::Isolate*) [/lib/x86_64-linux-gnu/libnode.so.72]
+12: 0x7f5c8f662f59  [/lib/x86_64-linux-gnu/libnode.so.72]
+Aborted (core dumped)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 134
+npm ERR! arielle-cerini-portfolio@1.1.0 start: `nuxt start`
+npm ERR! Exit status 134
+npm ERR! 
+npm ERR! Failed at the arielle-cerini-portfolio@1.1.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2021-06-11T04_45_30_344Z-debug.log

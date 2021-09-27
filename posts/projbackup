@@ -1,0 +1,19 @@
+objectFour: {
+                       col: colFour,
+                       row: 3, 
+                       images:{
+                            imageOne: /illustration/asset1.png, 
+                            imageTwo: /illustration/asset2.png,  
+                            imageThree: /illustration/asset3.png, 
+                            imageFour: /illustration/asset4.png, 
+                            imageFive: /illustration/asset5.png, 
+                            imageSix: /illustration/asset6.png,  
+                            imageSeven: /illustration/asset7.png, 
+                            imageEight: /illustration/asset8.png, 
+                            imageNine: /illustration/asset9.png, 
+                            imageTen: /illustration/asset10.png,  
+                            imageEleven: /illustration/asset11.png, 
+                            imageTwelve: /illustration/asset12.png, 
+                       },
+                        header: "NY Cake Illustrations for Store Graphics"
+                    },

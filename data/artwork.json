@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Dissertation book assets",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "icon",
+        "assets":
+        [
+            {
+            "img/src":  "asset22.png",
+            "alt-text": " "
+            },
+
+            {
+                "img/src":  "asset13.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "asset14.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "asset19.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "asset20.png",
+                "alt-text": " "
+                }
+        ]
+    },
+    {
+        "name": "Education Branding Assets",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "icon",
+        "assets":
+        [
+            {
+            "img/src":  "asset22.png",
+            "alt-text": " "
+            },
+
+            {
+                "img/src":  "asset13.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "asset14.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "asset19.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "asset20.png",
+                "alt-text": " "
+                }
+        ]
+    },
+    {
+        "name": "School Icons",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "icon",
+        "assets":
+        [
+            {
+            "img/src":  "Asset 21.svg",
+            "alt-text": " "
+            },
+            {
+                "img/src":  "Asset 22.svg",
+                "alt-text": " "
+                },
+                {
+                    "img/src":  "Asset 23.svg",
+                    "alt-text": " "
+                    },
+                    {
+                        "img/src":  "Asset 24.svg",
+                        "alt-text": " "
+                        }
+        ]
+    },
+
+    {
+        "name": "Pixelated Icons",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "icon",
+        "assets":
+        [
+            {
+            "img/src":  "Asset 2@2x_2.png",
+            "alt-text": " "
+            },
+
+            {
+                "img/src":  "Asset 3@2x_2.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "Asset 4@2x.png",
+                "alt-text": " "
+                },
+
+            {
+                "img/src":  "Asset 1@2x_1.png",
+                "alt-text": " "
+                }
+        ]
+    },
+    {
+        "name": "Sweet Graphics",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "graphic assets",
+        "assets":
+        [
+            {
+            "img/src":  " ",
+            "alt-text": " "
+            }
+        ]
+    },
+    {
+        "name": "Share the Sweetness",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "icon",
+        "assets":
+        [
+            {
+            "img/src":  " ",
+            "alt-text": " "
+            }
+        ]
+    },
+    {
+        "name": "Email Graphics",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "icon",
+        "assets":
+            [
+                {
+                "img/src":  "eh1.png",
+                "alt-text": "An Education in Sweetness"
+                },
+                {
+                    "img/src":  "eh2.png",
+                    "alt-text": "Bring Your Winter Fantasies to Life"
+                    },
+                {
+                    "img/src":  "eh3.png",
+                    "alt-text": "Chocolate: Make Life Sweet"
+                    }
+            ]
+    },
+    {
+        "name": "Email Graphics",
+        "description": " ",
+        "purpose": " ",
+        "media_type": "icon",
+        "assets":
+            [
+                {
+                "img/src":  "eh1.png",
+                "alt-text": " "
+                }
+            ]
+    }
+
+]

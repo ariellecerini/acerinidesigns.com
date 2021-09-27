@@ -1,0 +1,23 @@
+export default {
+  name: "my-component",
+  data() {
+    return {};
+  },
+  mounted() {
+    const targets = this.$el;
+    this
+      .$anime
+      .timeline()
+      .add({
+        targets,
+        translateX: 250,
+        easing: 'easeOutExpo',
+      })
+      .add({
+        targets,
+        translateX: 250,
+        easing: 'easeOutExpo',
+      });
+      /* ... etc ... */
+  },
+}
