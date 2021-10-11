@@ -935,3 +935,8 @@ div .row.row-grid{
     margin-left: 0;
 }
 }
+
+
+iframe{
+  width: 100% !important; 
+} 
