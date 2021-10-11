@@ -53,7 +53,7 @@
           </div>
 
         <div v-if="`${ cModule.item }`== 'iframe'" SameSite="Strict">
-            <div style="width: fit-content; margin: auto;":class="content.class" v-for="content in cModule.inner" v-bind:key="content.slug" :content="content">
+            <div style="width: 100%; margin: auto;":class="content.class" v-for="content in cModule.inner" v-bind:key="content.slug" :content="content">
                <iframe style="padding-top: 0;" :src="content" frameborder="0" allowfullscreen></iframe>
               </div>
           </div>
