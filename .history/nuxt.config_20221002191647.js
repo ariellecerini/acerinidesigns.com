@@ -135,8 +135,7 @@ module.exports = {
   },
   server: {
     port: 8000, // default: 3000
-    //host: '172.104.217.73' // default: localhost when posting to server should read 172.104.217.73
-    host: 'localhost'
+    host: '172.104.217.73' // default: localhost when posting to server should read 172.104.217.73
   },
   sitemap: {
     hostname: 'acerinidesigns.com',

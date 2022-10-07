@@ -399,7 +399,7 @@ div.row.row-grid{
   max-width: 1160px; 
 }
 
-@media only screen and (max-width: 960px) { 
+@media only screen and (max-width: 960px) {
 div.proj-category {
  display:none;
 }
@@ -434,7 +434,7 @@ margin-top: 5%;
 .projectImage{
   width: 100%; 
 }
-} 
+}
 
 
 p{
